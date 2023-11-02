@@ -3,6 +3,12 @@ body {
     color: whitesmoke;
 }
 
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color:darkturquoise
+}
+
 
 table{
     width: 1000px;
